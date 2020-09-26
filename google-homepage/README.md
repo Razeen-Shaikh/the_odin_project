@@ -1,6 +1,6 @@
 # Google Home Page
 
-## The Odin Project Assignment**
+## The Odin Project Assignment
 
 **Easy Version: Build the ***[Google.com](https://google.com)*** homepage**
 
